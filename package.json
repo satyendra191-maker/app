@@ -4,10 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "engines": {
-  "node": "20.x"
+  "node": ">20.x"
   },
-  ...
-}
 
   "scripts": {
     "dev": "vite",
